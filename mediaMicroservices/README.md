@@ -2,6 +2,7 @@
 
 ## Workload architecture
 ![Media microservices architecture diagram](assets/media_microservices_architecture.png)
+![Media microservices architecture diagram as described in paper](mediamicroservices-architecture.png)
 
 ## Dependencies
 - thrift C++ library
